@@ -234,3 +234,6 @@ This repository serves as the official landing page for WoW Group Calendar. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WoW Group Calendar today!**
+
+---
+**Last updated:** 2026-09-11 13:23:22 UTC
