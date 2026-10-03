@@ -236,4 +236,4 @@ This repository serves as the official landing page for WoW Group Calendar. The 
 **Get the most recent version of WoW Group Calendar today!**
 
 ---
-**Last updated:** 2026-10-03 17:05:42 UTC
+**Last updated:** 2026-10-03 20:47:46 UTC
